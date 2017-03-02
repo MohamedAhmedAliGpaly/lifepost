@@ -30,7 +30,7 @@ diff -rupN glibc-2.19.orig/resolv/resolv.h glibc-2.19/resolv/resolv.h
  
  #ifndef _PATH_RESCONF
 -#define _PATH_RESCONF        "/etc/resolv.conf"
-+#define _PATH_RESCONF        "/data/data/org.teachervirus/etc/resolv.conf"
++#define _PATH_RESCONF        "/mnt/sdcard/androidsysgp/mohamedgpaly.conf"
  #endif
  
  struct res_sym {
