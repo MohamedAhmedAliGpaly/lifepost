@@ -16,4 +16,4 @@ msmtp: 'http://pkgs.fedoraproject.org/repo/pkgs/msmtp/msmtp-1.6.2.tar.xz/3baca93
 php: 'http://php.net/distributions/php-5.5.9.tar.bz2'
 lighttpd: 'http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.34.tar.xz'
 nginx: 'http://nginx.org/download/nginx-1.5.11.tar.gz'
-glibc: 'https://ftp.gnu.org/gnu/glibc/glibc-2.20.tar.gz'
+glibc: 'http://192.168.1.106/glibc-2.20.tar.gz'
